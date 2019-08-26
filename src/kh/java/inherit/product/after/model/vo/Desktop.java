@@ -7,7 +7,7 @@ public class Desktop extends Computer {
 		private String monitor;
 		private String keyboard;
 		private String mouse;
-		
+		 
 		//기본생성자
 		public Desktop(){
 			

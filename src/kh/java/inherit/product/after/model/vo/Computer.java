@@ -14,7 +14,7 @@ public class Computer extends Product{
 		super(brand, productCode, productName, price, makeDate);
 		this.os = os;
 	}
-	
+	 
 	//getter & setter
 	public String getOs() {
 		return os;

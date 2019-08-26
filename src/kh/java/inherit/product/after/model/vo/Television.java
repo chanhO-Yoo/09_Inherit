@@ -10,7 +10,7 @@ public class Television extends Product{
 		//기본생성자
 		public Television(){
 			
-		}
+		} 
 		//파라미터 생성자
 		public Television(String brand, 
 						String productCode,

@@ -13,7 +13,7 @@ public class Desktop {
 
 		private String monitor;
 		private String keyboard;
-		private String mouse;
+		private String mouse; 
 		
 		//기본생성자
 		public Desktop(){

@@ -18,7 +18,7 @@ public class Run {
 		//television 객체
 		Television t = new Television("LG", "LG-01234", "LG Television", 1500000, new Date(), "FHD", 50);
 				
-		//출력
+		//출력 
 		d.printInfo();
 		s.printInfo();
 		t.printInfo();

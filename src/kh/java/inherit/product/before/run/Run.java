@@ -19,7 +19,7 @@ public class Run {
 		Television t = new Television("LG", "LG-01234", "LG Television", 1500000, new Date(), "FHD", 50);
 				
 		//출력
-		d.printInfo();
+		d.printInfo(); 
 		s.printInfo();
 		t.printInfo();
 	}

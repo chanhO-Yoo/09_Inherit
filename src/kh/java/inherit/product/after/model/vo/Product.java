@@ -14,7 +14,7 @@ import java.util.Date;
  *  - 부모클래스의 생성자, 초기화블럭은 상속 안됨.
  *  - 부모클래스의 private멤버는 상속은 되지만,
  *    직접 접근 불가능.
- */
+ */ 
 public class Product {
 	//field
 	private String brand;

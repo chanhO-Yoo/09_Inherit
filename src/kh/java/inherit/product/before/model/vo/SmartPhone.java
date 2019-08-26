@@ -16,7 +16,7 @@ public class SmartPhone {
 		//기본생성자
 		public SmartPhone(){
 			
-		}
+		} 
 		//파라미터 생성자
 		public SmartPhone(String brand, 
 						String productCode,
